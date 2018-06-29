@@ -1,1 +1,1 @@
-﻿Pull Requestの練習
+﻿Pull Request 修正
